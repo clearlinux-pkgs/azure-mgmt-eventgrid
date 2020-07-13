@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-eventgrid
 Version  : 2.2.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/8d/e6/f805cd9731bdf21e4dba9a1b341b6ff3cd69747bdbd954164d8187af6deb/azure-mgmt-eventgrid-2.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/8d/e6/f805cd9731bdf21e4dba9a1b341b6ff3cd69747bdbd954164d8187af6deb/azure-mgmt-eventgrid-2.2.0.zip
 Summary  : Microsoft Azure EventGrid Management Client Library for Python
